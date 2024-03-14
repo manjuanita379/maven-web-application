@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.153.40.9:8081/repository/mv-snap/</url>
+	      <url>http://54.153.40.9:8081/repository/mv-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
